@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Santosh Raghuwanshi
-- 👀 I’m interested in Working as DevOps Engineer
-- 🌱 I’m currently learning The DevOps Tools and Operations
-- 💞️ I’m looking to collaborate on Software Analisys and User Testing.
+- 👀 I’m interested in Collaboration for Software and Web Development.
+- 🌱 I’m currently Working as Sr. Infrastructure Engineer
+- 💞️ I’m looking to help organization on Software Development, HRMS, Android Development, Infrastructure Setup, SAS, PAAS, Analisys and User Testing.
 - 📫 How to reach me - santoshraghuwanshi8@gmail.com
 
 <!---
